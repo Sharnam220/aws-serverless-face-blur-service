@@ -30,7 +30,7 @@ To learn more about how this application works, see the article on the AWS Compu
 
 1. Create a new directory, navigate to that directory in a terminal and clone the GitHub repository:
     ``` 
-    git clone https://github.com/aws-samples/s3-face-blurring-service
+    git clone https://github.com/Sharnam220/aws-serverless-face-blur-service.git
     ```
 1. From the command line, use AWS SAM to deploy the AWS resources for the pattern as specified in the template.yml file:
     ```

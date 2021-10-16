@@ -67,7 +67,7 @@ Resources:
       Runtime: nodejs14.x
       Timeout: 10
       MemorySize: 2048
-      #ReservedConcurrentExecutions: 1
+      ReservedConcurrentExecutions: 1
       Layers:
         - !Sub 'arn:aws:lambda:${AWS::Region}:175033217214:layer:graphicsmagick:2'
       Policies:

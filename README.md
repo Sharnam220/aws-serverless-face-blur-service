@@ -63,6 +63,4 @@ Upload a JPG file containing a face to the source S3 bucket. After a few seconds
 Please contact the author or raise an issue on this GitHub repo if you have questions.
 
 ----
-Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
-SPDX-License-Identifier: MIT-0
